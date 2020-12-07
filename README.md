@@ -1,6 +1,11 @@
 #### Viola Jones Face Detection
 
-1.	Install all the requirements using requirements.txt
+1.	Install the following packages:
+      Pillow
+      Pickle
+      Numpy
+      Scikit-learn
+      matplotlib
 
 2.	Install Jupyter to run the .ipynb file.
 

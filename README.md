@@ -1,11 +1,11 @@
 #### Viola Jones Face Detection
 
 1.	Install the following packages:
-      Pillow
-      Pickle
-      Numpy
-      Scikit-learn
-      matplotlib
+      - Pillow
+      - Pickle
+      - Numpy
+      - Scikit-learn
+      - matplotlib
 
 2.	Install Jupyter to run the .ipynb file.
 

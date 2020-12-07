@@ -1,4 +1,4 @@
-#Viola Jones Face Detection
+#### Viola Jones Face Detection
 
 1.	Install all the requirements using requirements.txt
 

@@ -13,4 +13,6 @@
 
 4.	Extract dataset.zip in the current location.
 
-5.	Run the Jupyter notebook. For testing, only run the testing cells. 
+5.	Run the Jupyter notebook. For testing, only run the testing cells. '
+
+pickle and other saved files can be found here: https://drive.google.com/file/d/1csmahn3hHSYsBeJoGhkWGdYFJOOMfTjp/view?usp=sharing
